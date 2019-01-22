@@ -31,7 +31,7 @@ library(reshape2)
 
 # tom mac
 if(Sys.info()[4] == "Toms-Air"){
-  pcdir <- path.expand("~/git/snyder_proctor_creek")
+  pcdir <- path.expand("~/git/snyder_proctorcreek/")
 }
 
 pcdir_data_in <- paste(pcdir,'data_in/',sep='')
@@ -53,6 +53,9 @@ Introduction
 Blake's data from x locations with x observations.
 
 ```{r cars}
-pc_data <- paste(pcdir_data_in,"proctor_creek.csv", sep="")
-file.exists(pc_data)
+pc_data_file <- paste(pcdir_data_in,"proctor_creek.csv", sep="")
+file.exists(pc_data_file)
+pc_data <- read.table(pc_data_file, header = TRUE, sep = ",")
+dim(pc_data)
+summary(pc_data)
 ```
