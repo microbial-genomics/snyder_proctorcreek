@@ -7,14 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Introduction
-========================================================
-Blake's data from x locations with x observations.
-
-```{r cars}
-summary(cars)
-```
-
 Computational environment
 ========================================================
 Location of this repository: 
@@ -55,3 +47,12 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Introduction
+========================================================
+Blake's data from x locations with x observations.
+
+```{r cars}
+pc_data <- paste(pcdir_data_in,"proctor_creek.csv", sep="")
+file.exists(pc_data)
+```
