@@ -50,12 +50,27 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 Introduction
 ========================================================
-Blake's data from x locations with x observations.
+Blake's data from 14 locations (1 blank), 32 columns and  1432 observations collected on 46 different sampling dates (11/23/2015-7/25/2017).
+
+proctor_creek2.csv changes all blanks to NAs, P and A to 1 and 0, all LOD, <LOD, and ND to 0.
 
 ```{r cars}
-pc_data_file <- paste(pcdir_data_in,"proctor_creek.csv", sep="")
+pc_data_file <- paste(pcdir_data_in,"proctor_creek2.csv", sep="")
 file.exists(pc_data_file)
 pc_data <- read.table(pc_data_file, header = TRUE, sep = ",")
+View(pc_data)
 dim(pc_data)
 summary(pc_data)
+colnames(pc_data)
+unique(pc_data$Site)
+levels(pc_data$Site)
+unique(pc_data$Sample_Date)
+unique(pc_data$site_season)
+```
+
+Introduction2
+========================================================
+```{r pca}
+View(pc_data[,c(9:12)])
+proctor_creek.pca <- prcomp(pc_data[,c(9:12)], center = TRUE,scale. = TRUE, na.action = na.omit)
 ```
