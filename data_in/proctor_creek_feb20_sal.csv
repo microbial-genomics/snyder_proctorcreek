@@ -1,0 +1,466 @@
+Lab_ID,Site,Wet/Dry Season,Mainstem_Tributary,Salmonella (Presence/Absence),Stx2 (Presence/Absence)
+PC13,Burbank,Dry,Mainstem,A,P
+PC26,Burbank,Dry,Mainstem,P,P
+PC29,Burbank,Wet,Mainstem,A,P
+PC55,Burbank,Wet,Mainstem,P,A
+PC68,Burbank,Wet,Mainstem,A,P
+PC83,Burbank,Wet,Mainstem,P,P
+PC96,Burbank,Wet,Mainstem,A,P
+PC110,Burbank,Wet,Mainstem,A,A
+PC112,Burbank,Wet,Mainstem,A,P
+PC140,Burbank,Wet,Mainstem,P,P
+PC154,Burbank,Wet,Mainstem,P,A
+PC169,Burbank,Wet,Mainstem,P,P
+PC184,Burbank,Wet,Mainstem,P,A
+PC198,Burbank,Wet,Mainstem,P,P
+PC216,Burbank,Dry,Mainstem,A,A
+PC229,Burbank,Dry,Mainstem,A,P
+PC232,Burbank,Dry,Mainstem,P,A
+PC257,Burbank,Dry,Mainstem,P,P
+PC269,Burbank,Dry,Mainstem,P,P
+PC281,Burbank,Dry,Mainstem,A,A
+PC293,Burbank,Dry,Mainstem,A,P
+PC308,Burbank,Dry,Mainstem,A,P
+PC320,Burbank,Dry,Mainstem,A,P
+PC332,Burbank,Dry,Mainstem,A,P
+PC344,Burbank,Dry,Mainstem,A,A
+PC356,Burbank,Dry,Mainstem,A,A
+PC368,Burbank,Dry,Mainstem,A,P
+PC381,Burbank,Wet,Mainstem,P,P
+PC384,Burbank,Wet,Mainstem,P,P
+PC413,Burbank,Wet,Mainstem,P,P
+PC426,Burbank,Wet,Mainstem,A,P
+PC439,Burbank,Wet,Mainstem,A,P
+PC454,Burbank,Wet,Mainstem,A,P
+PC483,Burbank,Wet,Mainstem,A,A
+PC500,Burbank,Wet,Mainstem,A,P
+PC513,Burbank,Wet,Mainstem,P,P
+PC527,Burbank,Wet,Mainstem,A,A
+PC541,Burbank,Wet,Mainstem,P,A
+PC544,Burbank,Dry,Mainstem,P,P
+PC573,Burbank,Dry,Mainstem,P,P
+PC12,Greensferry,Dry,Tributary,A,A
+PC25,Greensferry,Dry,Tributary,A,A
+PC35,Greensferry,Wet,Tributary,A,A
+PC54,Greensferry,Wet,Tributary,A,A
+PC66,Greensferry,Wet,Tributary,A,A
+PC70,Greensferry,Wet,Tributary,A,A
+PC82,Greensferry,Wet,Tributary,A,A
+PC95,Greensferry,Wet,Tributary,A,A
+PC109,Greensferry,Wet,Tributary,A,P
+PC113,Greensferry,Wet,Tributary,A,A
+PC139,Greensferry,Wet,Tributary,A,A
+PC153,Greensferry,Wet,Tributary,A,P
+PC168,Greensferry,Wet,Tributary,P,A
+PC183,Greensferry,Wet,Tributary,A,A
+PC197,Greensferry,Wet,Tributary,A,A
+PC215,Greensferry,Dry,Tributary,A,A
+PC228,Greensferry,Dry,Tributary,A,P
+PC237,Greensferry,Dry,Tributary,A,P
+PC256,Greensferry,Dry,Tributary,A,P
+PC268,Greensferry,Dry,Tributary,A,A
+PC280,Greensferry,Dry,Tributary,A,A
+PC292,Greensferry,Dry,Tributary,A,A
+PC300,Greensferry,Dry,Tributary,A,A
+PC319,Greensferry,Dry,Tributary,A,A
+PC331,Greensferry,Dry,Tributary,A,A
+PC343,Greensferry,Dry,Tributary,A,A
+PC355,Greensferry,Dry,Tributary,P,A
+PC367,Greensferry,Dry,Tributary,A,A
+PC380,Greensferry,Wet,Tributary,A,P
+PC390,Greensferry,Wet,Tributary,A,A
+PC412,Greensferry,Wet,Tributary,P,P
+PC425,Greensferry,Wet,Tributary,A,A
+PC438,Greensferry,Wet,Tributary,A,A
+PC453,Greensferry,Wet,Tributary,A,P
+PC482,Greensferry,Wet,Tributary,A,A
+PC491,Greensferry,Wet,Tributary,A,A
+PC512,Greensferry,Wet,Tributary,A,A
+PC526,Greensferry,Wet,Tributary,A,A
+PC540,Greensferry,Wet,Tributary,P,A
+PC550,Greensferry,Dry,Tributary,A,A
+PC572,Greensferry,Dry,Tributary,A,A
+PC7,Grove Park,Dry,Tributary,P,P
+PC21,Grove Park,Dry,Tributary,A,A
+PC30,Grove Park,Wet,Tributary,A,P
+PC50,Grove Park,Wet,Tributary,A,P
+PC63,Grove Park,Wet,Tributary,P,P
+PC77,Grove Park,Wet,Tributary,P,P
+PC91,Grove Park,Wet,Tributary,A,A
+PC104,Grove Park,Wet,Tributary,P,P
+PC122,Grove Park,Wet,Tributary,A,P
+PC134,Grove Park,Wet,Tributary,P,P
+PC148,Grove Park,Wet,Tributary,P,A
+PC164,Grove Park,Wet,Tributary,P,A
+PC178,Grove Park,Wet,Tributary,P,P
+PC192,Grove Park,Wet,Tributary,P,P
+PC211,Grove Park,Dry,Tributary,P,A
+PC224,Grove Park,Dry,Tributary,P,A
+PC233,Grove Park,Dry,Tributary,P,A
+PC252,Grove Park,Dry,Tributary,P,P
+PC264,Grove Park,Dry,Tributary,P,A
+PC276,Grove Park,Dry,Tributary,P,P
+PC288,Grove Park,Dry,Tributary,P,A
+PC296,Grove Park,Dry,Tributary,P,A
+PC315,Grove Park,Dry,Tributary,A,P
+PC327,Grove Park,Dry,Tributary,P,A
+PC339,Grove Park,Dry,Tributary,A,A
+PC351,Grove Park,Dry,Tributary,A,P
+PC363,Grove Park,Dry,Tributary,P,P
+PC376,Grove Park,Wet,Tributary,A,A
+PC385,Grove Park,Wet,Tributary,P,A
+PC408,Grove Park,Wet,Tributary,P,P
+PC421,Grove Park,Wet,Tributary,P,P
+PC434,Grove Park,Wet,Tributary,P,P
+PC449,Grove Park,Wet,Tributary,A,A
+PC478,Grove Park,Wet,Tributary,P,A
+PC486,Grove Park,Wet,Tributary,P,A
+PC508,Grove Park,Wet,Tributary,P,P
+PC522,Grove Park,Wet,Tributary,P,A
+PC536,Grove Park,Wet,Tributary,P,P
+PC545,Grove Park,Dry,Tributary,P,P
+PC568,Grove Park,Dry,Tributary,A,P
+PC6,Hortense,Dry,Mainstem,A,P
+PC20,Hortense,Dry,Mainstem,A,A
+PC49,Hortense,Wet,Mainstem,A,A
+PC62,Hortense,Wet,Mainstem,A,A
+PC76,Hortense,Wet,Mainstem,P,P
+PC90,Hortense,Wet,Mainstem,A,A
+PC103,Hortense,Wet,Mainstem,A,A
+PC117,Hortense,Wet,Mainstem,P,P
+PC133,Hortense,Wet,Mainstem,P,A
+PC147,Hortense,Wet,Mainstem,P,P
+PC163,Hortense,Wet,Mainstem,P,A
+PC177,Hortense,Wet,Mainstem,P,A
+PC191,Hortense,Wet,Mainstem,P,A
+PC210,Hortense,Dry,Mainstem,A,P
+PC223,Hortense,Dry,Mainstem,P,A
+PC241,Hortense,Dry,Mainstem,A,A
+PC251,Hortense,Dry,Mainstem,P,A
+PC263,Hortense,Dry,Mainstem,P,P
+PC275,Hortense,Dry,Mainstem,P,A
+PC287,Hortense,Dry,Mainstem,P,P
+PC304,Hortense,Dry,Mainstem,P,A
+PC314,Hortense,Dry,Mainstem,P,A
+PC326,Hortense,Dry,Mainstem,P,A
+PC338,Hortense,Dry,Mainstem,P,A
+PC350,Hortense,Dry,Mainstem,A,A
+PC362,Hortense,Dry,Mainstem,P,A
+PC375,Hortense,Wet,Mainstem,A,P
+PC394,Hortense,Wet,Mainstem,A,A
+PC407,Hortense,Wet,Mainstem,P,P
+PC420,Hortense,Wet,Mainstem,A,P
+PC433,Hortense,Wet,Mainstem,P,P
+PC448,Hortense,Wet,Mainstem,A,P
+PC477,Hortense,Wet,Mainstem,P,P
+PC495,Hortense,Wet,Mainstem,P,P
+PC507,Hortense,Wet,Mainstem,P,P
+PC521,Hortense,Wet,Mainstem,A,P
+PC535,Hortense,Wet,Mainstem,P,P
+PC554,Hortense,Dry,Mainstem,P,A
+PC567,Hortense,Dry,Mainstem,P,P
+PC3,James Jackson,Dry,Mainstem,A,A
+PC17,James Jackson,Dry,Mainstem,A,A
+PC41,James Jackson,Wet,Mainstem,P,A
+PC46,James Jackson,Wet,Mainstem,P,A
+PC59,James Jackson,Wet,Mainstem,A,A
+PC73,James Jackson,Wet,Mainstem,P,A
+PC87,James Jackson,Wet,Mainstem,A,P
+PC100,James Jackson,Wet,Mainstem,A,P
+PC119,James Jackson,Wet,Mainstem,A,P
+PC130,James Jackson,Wet,Mainstem,P,A
+PC144,James Jackson,Wet,Mainstem,P,P
+PC160,James Jackson,Wet,Mainstem,P,A
+PC174,James Jackson,Wet,Mainstem,P,A
+PC188,James Jackson,Wet,Mainstem,P,P
+PC207,James Jackson,Dry,Mainstem,P,A
+PC220,James Jackson,Dry,Mainstem,P,P
+PC243,James Jackson,Dry,Mainstem,P,A
+PC248,James Jackson,Dry,Mainstem,P,A
+PC260,James Jackson,Dry,Mainstem,P,P
+PC272,James Jackson,Dry,Mainstem,P,A
+PC284,James Jackson,Dry,Mainstem,P,P
+PC306,James Jackson,Dry,Mainstem,A,A
+PC311,James Jackson,Dry,Mainstem,P,A
+PC323,James Jackson,Dry,Mainstem,A,P
+PC335,James Jackson,Dry,Mainstem,P,P
+PC347,James Jackson,Dry,Mainstem,P,A
+PC359,James Jackson,Dry,Mainstem,P,P
+PC372,James Jackson,Wet,Mainstem,P,P
+PC396,James Jackson,Wet,Mainstem,P,A
+PC401,James Jackson,Wet,Mainstem,P,A
+PC417,James Jackson,Wet,Mainstem,A,P
+PC430,James Jackson,Wet,Mainstem,P,P
+PC444,James Jackson,Wet,Mainstem,A,P
+PC456,James Jackson,Wet,Mainstem,A,P
+PC462,James Jackson,Wet,Mainstem,P,P
+PC463,James Jackson,Wet,Mainstem,P,P
+PC474,James Jackson,Wet,Mainstem,P,P
+PC497,James Jackson,Wet,Mainstem,P,P
+PC504,James Jackson,Wet,Mainstem,P,P
+PC518,James Jackson,Wet,Mainstem,P,P
+PC532,James Jackson,Wet,Mainstem,P,P
+PC556,James Jackson,Dry,Mainstem,A,P
+PC564,James Jackson,Dry,Mainstem,P,P
+PC5,Kerry Circle,Dry,Mainstem,A,A
+PC19,Kerry Circle,Dry,Mainstem,A,A
+PC40,Kerry Circle,Wet,Mainstem,P,A
+PC48,Kerry Circle,Wet,Mainstem,P,A
+PC61,Kerry Circle,Wet,Mainstem,P,A
+PC75,Kerry Circle,Wet,Mainstem,P,A
+PC89,Kerry Circle,Wet,Mainstem,A,P
+PC102,Kerry Circle,Wet,Mainstem,A,A
+PC118,Kerry Circle,Wet,Mainstem,A,P
+PC132,Kerry Circle,Wet,Mainstem,A,A
+PC146,Kerry Circle,Wet,Mainstem,P,P
+PC162,Kerry Circle,Wet,Mainstem,P,A
+PC176,Kerry Circle,Wet,Mainstem,P,A
+PC190,Kerry Circle,Wet,Mainstem,P,A
+PC209,Kerry Circle,Dry,Mainstem,P,P
+PC222,Kerry Circle,Dry,Mainstem,P,A
+PC242,Kerry Circle,Dry,Mainstem,P,A
+PC250,Kerry Circle,Dry,Mainstem,P,A
+PC262,Kerry Circle,Dry,Mainstem,P,P
+PC274,Kerry Circle,Dry,Mainstem,P,P
+PC286,Kerry Circle,Dry,Mainstem,P,P
+PC305,Kerry Circle,Dry,Mainstem,P,A
+PC313,Kerry Circle,Dry,Mainstem,A,A
+PC325,Kerry Circle,Dry,Mainstem,P,A
+PC337,Kerry Circle,Dry,Mainstem,P,A
+PC349,Kerry Circle,Dry,Mainstem,A,A
+PC361,Kerry Circle,Dry,Mainstem,P,P
+PC374,Kerry Circle,Wet,Mainstem,A,A
+PC395,Kerry Circle,Wet,Mainstem,A,A
+PC403,Kerry Circle,Wet,Mainstem,P,P
+PC419,Kerry Circle,Wet,Mainstem,P,P
+PC432,Kerry Circle,Wet,Mainstem,P,P
+PC446,Kerry Circle,Wet,Mainstem,A,P
+PC476,Kerry Circle,Wet,Mainstem,P,P
+PC496,Kerry Circle,Wet,Mainstem,P,P
+PC506,Kerry Circle,Wet,Mainstem,P,P
+PC520,Kerry Circle,Wet,Mainstem,P,P
+PC534,Kerry Circle,Wet,Mainstem,P,P
+PC555,Kerry Circle,Dry,Mainstem,P,A
+PC566,Kerry Circle,Dry,Mainstem,P,P
+PC2,Lillian Cooper Park,Dry,Tributary,P,P
+PC16,Lillian Cooper Park,Dry,Tributary,P,A
+PC33,Lillian Cooper Park,Wet,Tributary,A,A
+PC45,Lillian Cooper Park,Wet,Tributary,A,A
+PC58,Lillian Cooper Park,Wet,Tributary,A,A
+PC72,Lillian Cooper Park,Wet,Tributary,A,A
+PC86,Lillian Cooper Park,Wet,Tributary,P,A
+PC99,Lillian Cooper Park,Wet,Tributary,A,A
+PC125,Lillian Cooper Park,Wet,Tributary,P,A
+PC129,Lillian Cooper Park,Wet,Tributary,A,P
+PC143,Lillian Cooper Park,Wet,Tributary,P,A
+PC159,Lillian Cooper Park,Wet,Tributary,P,A
+PC173,Lillian Cooper Park,Wet,Tributary,A,P
+PC187,Lillian Cooper Park,Wet,Tributary,P,A
+PC206,Lillian Cooper Park,Dry,Tributary,A,A
+PC219,Lillian Cooper Park,Dry,Tributary,A,P
+PC371,Lillian Cooper Park,Wet,Tributary,A,P
+PC388,Lillian Cooper Park,Wet,Tributary,P,A
+PC400,Lillian Cooper Park,Wet,Tributary,A,A
+PC416,Lillian Cooper Park,Wet,Tributary,P,A
+PC429,Lillian Cooper Park,Wet,Tributary,P,A
+PC443,Lillian Cooper Park,Wet,Tributary,A,A
+PC473,Lillian Cooper Park,Wet,Tributary,P,A
+PC489,Lillian Cooper Park,Wet,Tributary,P,A
+PC503,Lillian Cooper Park,Wet,Tributary,P,A
+PC517,Lillian Cooper Park,Wet,Tributary,P,A
+PC531,Lillian Cooper Park,Wet,Tributary,P,A
+PC548,Lillian Cooper Park,Dry,Tributary,A,A
+PC563,Lillian Cooper Park,Dry,Tributary,P,P
+PC11,Lindsay Street,Dry,Tributary,P,A
+PC24,Lindsay Street,Dry,Tributary,P,P
+PC28,Lindsay Street,Wet,Tributary,A,P
+PC53,Lindsay Street,Wet,Tributary,P,A
+PC67,Lindsay Street,Wet,Tributary,P,A
+PC81,Lindsay Street,Wet,Tributary,A,A
+PC94,Lindsay Street,Wet,Tributary,P,A
+PC108,Lindsay Street,Wet,Tributary,P,P
+PC121,Lindsay Street,Wet,Tributary,P,P
+PC138,Lindsay Street,Wet,Tributary,P,P
+PC152,Lindsay Street,Wet,Tributary,P,P
+PC167,Lindsay Street,Wet,Tributary,P,P
+PC182,Lindsay Street,Wet,Tributary,A,A
+PC196,Lindsay Street,Wet,Tributary,P,P
+PC214,Lindsay Street,Dry,Tributary,A,P
+PC227,Lindsay Street,Dry,Tributary,A,P
+PC231,Lindsay Street,Dry,Tributary,A,A
+PC255,Lindsay Street,Dry,Tributary,A,P
+PC267,Lindsay Street,Dry,Tributary,A,A
+PC279,Lindsay Street,Dry,Tributary,P,P
+PC291,Lindsay Street,Dry,Tributary,A,P
+PC295,Lindsay Street,Dry,Tributary,P,P
+PC318,Lindsay Street,Dry,Tributary,A,P
+PC330,Lindsay Street,Dry,Tributary,P,P
+PC342,Lindsay Street,Dry,Tributary,A,A
+PC354,Lindsay Street,Dry,Tributary,A,A
+PC366,Lindsay Street,Dry,Tributary,P,P
+PC379,Lindsay Street,Wet,Tributary,A,A
+PC383,Lindsay Street,Wet,Tributary,A,P
+PC411,Lindsay Street,Wet,Tributary,P,P
+PC424,Lindsay Street,Wet,Tributary,A,A
+PC437,Lindsay Street,Wet,Tributary,A,A
+PC452,Lindsay Street,Wet,Tributary,P,A
+PC481,Lindsay Street,Wet,Tributary,P,A
+PC485,Lindsay Street,Wet,Tributary,P,A
+PC511,Lindsay Street,Wet,Tributary,A,A
+PC525,Lindsay Street,Wet,Tributary,P,P
+PC539,Lindsay Street,Wet,Tributary,P,A
+PC543,Lindsay Street,Dry,Tributary,A,A
+PC571,Lindsay Street,Dry,Tributary,A,P
+PC9,North Ave,Dry,Mainstem,P,A
+PC23,North Ave,Dry,Mainstem,A,A
+PC36,North Ave,Wet,Mainstem,A,A
+PC52,North Ave,Wet,Mainstem,A,A
+PC65,North Ave,Wet,Mainstem,A,A
+PC79,North Ave,Wet,Mainstem,A,A
+PC93,North Ave,Wet,Mainstem,P,A
+PC106,North Ave,Wet,Mainstem,A,A
+PC114,North Ave,Wet,Mainstem,A,A
+PC136,North Ave,Wet,Mainstem,P,P
+PC150,North Ave,Wet,Mainstem,P,P
+PC166,North Ave,Wet,Mainstem,P,A
+PC180,North Ave,Wet,Mainstem,P,A
+PC194,North Ave,Wet,Mainstem,P,P
+PC212,North Ave,Dry,Mainstem,P,A
+PC225,North Ave,Dry,Mainstem,P,P
+PC238,North Ave,Dry,Mainstem,P,P
+PC253,North Ave,Dry,Mainstem,P,A
+PC265,North Ave,Dry,Mainstem,P,A
+PC277,North Ave,Dry,Mainstem,P,A
+PC289,North Ave,Dry,Mainstem,A,A
+PC301,North Ave,Dry,Mainstem,P,A
+PC316,North Ave,Dry,Mainstem,P,A
+PC328,North Ave,Dry,Mainstem,P,A
+PC340,North Ave,Dry,Mainstem,A,P
+PC352,North Ave,Dry,Mainstem,A,P
+PC364,North Ave,Dry,Mainstem,A,A
+PC377,North Ave,Wet,Mainstem,P,P
+PC391,North Ave,Wet,Mainstem,P,A
+PC409,North Ave,Wet,Mainstem,P,P
+PC422,North Ave,Wet,Mainstem,A,P
+PC435,North Ave,Wet,Mainstem,P,P
+PC450,North Ave,Wet,Mainstem,P,P
+PC479,North Ave,Wet,Mainstem,P,A
+PC492,North Ave,Wet,Mainstem,P,A
+PC509,North Ave,Wet,Mainstem,P,A
+PC523,North Ave,Wet,Mainstem,P,A
+PC537,North Ave,Wet,Mainstem,P,P
+PC551,North Ave,Dry,Mainstem,P,P
+PC569,North Ave,Dry,Mainstem,P,A
+PC37,North Ave CSO,Wet,Tributary,A,A
+PC80,North Ave CSO,Wet,Tributary,A,A
+PC115,North Ave CSO,Wet,Tributary,A,P
+PC137,North Ave CSO,Wet,Tributary,A,A
+PC170,North Ave CSO,Wet,Tributary,P,A
+PC181,North Ave CSO,Wet,Tributary,A,A
+PC195,North Ave CSO,Wet,Tributary,A,A
+PC213,North Ave CSO,Dry,Tributary,A,A
+PC226,North Ave CSO,Dry,Tributary,P,A
+PC239,North Ave CSO,Dry,Tributary,A,A
+PC254,North Ave CSO,Dry,Tributary,P,P
+PC266,North Ave CSO,Dry,Tributary,A,A
+PC278,North Ave CSO,Dry,Tributary,A,A
+PC290,North Ave CSO,Dry,Tributary,A,A
+PC302,North Ave CSO,Dry,Tributary,P,A
+PC317,North Ave CSO,Dry,Tributary,A,A
+PC329,North Ave CSO,Dry,Tributary,A,A
+PC341,North Ave CSO,Dry,Tributary,A,A
+PC353,North Ave CSO,Dry,Tributary,P,A
+PC365,North Ave CSO,Dry,Tributary,P,A
+PC378,North Ave CSO,Wet,Tributary,A,A
+PC392,North Ave CSO,Wet,Tributary,A,A
+PC410,North Ave CSO,Wet,Tributary,P,P
+PC423,North Ave CSO,Wet,Tributary,P,P
+PC436,North Ave CSO,Wet,Tributary,P,A
+PC451,North Ave CSO,Wet,Tributary,P,A
+PC480,North Ave CSO,Wet,Tributary,P,P
+PC493,North Ave CSO,Wet,Tributary,P,P
+PC510,North Ave CSO,Wet,Tributary,P,A
+PC524,North Ave CSO,Wet,Tributary,A,P
+PC538,North Ave CSO,Wet,Tributary,P,A
+PC552,North Ave CSO,Dry,Tributary,P,A
+PC570,North Ave CSO,Dry,Tributary,P,P
+PC1,Northwest,Dry,Mainstem,A,A
+PC15,Northwest,Dry,Mainstem,A,A
+PC44,Northwest,Wet,Mainstem,P,A
+PC57,Northwest,Wet,Mainstem,A,A
+PC71,Northwest,Wet,Mainstem,P,P
+PC85,Northwest,Wet,Mainstem,A,P
+PC98,Northwest,Wet,Mainstem,A,A
+PC120,Northwest,Wet,Mainstem,P,A
+PC128,Northwest,Wet,Mainstem,P,A
+PC142,Northwest,Wet,Mainstem,P,P
+PC158,Northwest,Wet,Mainstem,P,A
+PC172,Northwest,Wet,Mainstem,P,A
+PC186,Northwest,Wet,Mainstem,P,A
+PC205,Northwest,Dry,Mainstem,P,P
+PC218,Northwest,Dry,Mainstem,P,A
+PC244,Northwest,Dry,Mainstem,A,A
+PC246,Northwest,Dry,Mainstem,P,A
+PC259,Northwest,Dry,Mainstem,P,P
+PC271,Northwest,Dry,Mainstem,P,A
+PC283,Northwest,Dry,Mainstem,P,P
+PC307,Northwest,Dry,Mainstem,P,A
+PC310,Northwest,Dry,Mainstem,A,A
+PC322,Northwest,Dry,Mainstem,P,A
+PC334,Northwest,Dry,Mainstem,P,A
+PC346,Northwest,Dry,Mainstem,P,P
+PC358,Northwest,Dry,Mainstem,P,P
+PC397,Northwest,Wet,Mainstem,A,A
+PC399,Northwest,Wet,Mainstem,P,P
+PC415,Northwest,Wet,Mainstem,P,A
+PC428,Northwest,Wet,Mainstem,P,P
+PC441,Northwest,Wet,Mainstem,A,A
+PC472,Northwest,Wet,Mainstem,P,P
+PC498,Northwest,Wet,Mainstem,A,A
+PC501,Northwest,Wet,Mainstem,P,P
+PC515,Northwest,Wet,Mainstem,A,A
+PC529,Northwest,Wet,Mainstem,P,P
+PC557,Northwest,Dry,Mainstem,P,P
+PC561,Northwest,Dry,Mainstem,P,P
+PC42,Northwest,Wet,Mainstem,A,A
+PC370,Northwest,Wet,Mainstem,P,P
+PC4,Spring Street,Dry,Tributary,A,P
+PC18,Spring Street,Dry,Tributary,A,A
+PC31,Spring Street,Wet,Tributary,A,A
+PC47,Spring Street,Wet,Tributary,A,P
+PC60,Spring Street,Wet,Tributary,A,P
+PC74,Spring Street,Wet,Tributary,A,P
+PC88,Spring Street,Wet,Tributary,A,A
+PC101,Spring Street,Wet,Tributary,A,A
+PC123,Spring Street,Wet,Tributary,A,P
+PC131,Spring Street,Wet,Tributary,A,A
+PC145,Spring Street,Wet,Tributary,A,P
+PC161,Spring Street,Wet,Tributary,P,A
+PC175,Spring Street,Wet,Tributary,P,A
+PC189,Spring Street,Wet,Tributary,P,P
+PC208,Spring Street,Dry,Tributary,P,A
+PC221,Spring Street,Dry,Tributary,P,P
+PC234,Spring Street,Dry,Tributary,P,A
+PC249,Spring Street,Dry,Tributary,P,A
+PC261,Spring Street,Dry,Tributary,A,P
+PC273,Spring Street,Dry,Tributary,P,A
+PC285,Spring Street,Dry,Tributary,A,P
+PC297,Spring Street,Dry,Tributary,P,P
+PC312,Spring Street,Dry,Tributary,P,P
+PC324,Spring Street,Dry,Tributary,P,P
+PC336,Spring Street,Dry,Tributary,A,P
+PC348,Spring Street,Dry,Tributary,A,A
+PC360,Spring Street,Dry,Tributary,P,P
+PC373,Spring Street,Wet,Tributary,P,A
+PC386,Spring Street,Wet,Tributary,P,A
+PC402,Spring Street,Wet,Tributary,P,P
+PC418,Spring Street,Wet,Tributary,A,P
+PC431,Spring Street,Wet,Tributary,A,P
+PC445,Spring Street,Wet,Tributary,A,P
+PC475,Spring Street,Wet,Tributary,A,P
+PC487,Spring Street,Wet,Tributary,A,P
+PC505,Spring Street,Wet,Tributary,A,P
+PC519,Spring Street,Wet,Tributary,A,A
+PC533,Spring Street,Wet,Tributary,P,P
+PC546,Spring Street,Dry,Tributary,P,A
+PC565,Spring Street,Dry,Tributary,A,A
