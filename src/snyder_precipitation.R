@@ -157,7 +157,7 @@ bi_weekly_summary
 colnames(bi_weekly_summary)
 
 #plot bi_weekly_precipitation
-ggplot(data = bi_weekly_summary,aes(TwoWeeks, mean_value)) +geom_line()+
+p5<-ggplot(data = bi_weekly_summary,aes(TwoWeeks, mean_value)) +geom_line()+
   labs(x = "", y = "Precipitation, total inches ")
 
 # add a 'Monthly' column with month breaks
@@ -183,7 +183,7 @@ bi_weekly_flow
 colnames(bi_weekly_flow)
 
 #plot bi_weekly_precipitation
-ggplot(data = bi_weekly_flow,aes(TwoWeeks, mean_flow)) +geom_line()+
+p6<-ggplot(data = bi_weekly_flow,aes(TwoWeeks, mean_flow)) +geom_line()+
   labs(x = "", y = "Flow, mean cfs ")
 
 # add a 'Monthly' column with month breaks
@@ -210,7 +210,7 @@ bi_weekly_bf
 colnames(bi_weekly_bf)
 
 #plot bi_weekly_precipitation
-ggplot(data = bi_weekly_bf,aes(TwoWeeks, mean_bf)) +geom_line()+
+p7<-ggplot(data = bi_weekly_bf,aes(TwoWeeks, mean_bf)) +geom_line()+
   labs(x = "", y = "Baseflow, mean cfs ")
 
 # add a 'Monthly' column with month breaks
@@ -225,3 +225,5 @@ wet_bf <- subset(bi_weekly_bf, md > "12-20"|md < "06-20")
 t.test(wet_bf$mean_bf,dry_bf$mean_bf)
 boxplot(wet_bf$mean_bf, at=1,xlim=c(0, 3))
 boxplot(dry_bf$mean_bf, at=2, add=TRUE)
+
+multiplot(p5, p6, p7, cols=1)
