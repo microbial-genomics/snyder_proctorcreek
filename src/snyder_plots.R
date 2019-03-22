@@ -55,7 +55,7 @@ p1<-ggplot(pc_data,aes(x=Site_f,y=Log10.E..coli.MPN.100.ml))+geom_boxplot(aes(fi
 #Log HF183MGB plot
 p2<-ggplot(pc_data,aes(x=Site_f,y=Log.HF183MGB..GC.100.mL.))+geom_boxplot(aes(fill=Wet.Dry.Season))+ facet_grid(.~Mainstem_Tributary, scales = 'free')+
   labs(x = "", y = "Log HF183MGB (GC/100 mL)",color="Season")+
-  scale_y_continuous(limits = c(0, 10), breaks =c(0,2, 4, 6,8))+
+  scale_y_continuous(limits = c(0, 8), breaks =c(0,2, 4, 6,8))+
   #scale_fill_brewer(palette="BrBG")+
   theme_bw()+
   theme(strip.background=element_rect(fill="grey"))+
@@ -66,8 +66,8 @@ p2<-ggplot(pc_data,aes(x=Site_f,y=Log.HF183MGB..GC.100.mL.))+geom_boxplot(aes(fi
   theme(legend.position ="bottom", legend.background = element_rect(color = "black",fill = "white", size = 1, linetype = "solid"), legend.direction = "horizontal")+ 
   theme(legend.key.size = unit(0.5, "in"))+
   theme(legend.text=element_text(size=15))+
-  theme(legend.title=element_blank())+ geom_hline(yintercept=8.3,linetype="dashed", color = "red",size=1)+
-  scale_linetype_manual(name="Title of legend", values = c(1,2), guide = guide_legend(override.aes = list(color = c("blue", "red"))))
+  theme(legend.title=element_blank())#+ #geom_hline(yintercept=8.3,linetype="dashed", color = "red",size=1)
+  #scale_linetype_manual(name="Title of legend", values = c(1,2), guide = guide_legend(override.aes = list(color = c("blue", "red"))))
 
 #Log.DG3 plot
 p3<-ggplot(pc_data,aes(x=Site_f,y=Log.DG3..GC.100.mL.))+geom_boxplot(aes(fill=Wet.Dry.Season))+ facet_grid(.~Mainstem_Tributary, scales = 'free')+
